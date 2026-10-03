@@ -1,0 +1,15 @@
+# Игнорируем большие файлы модов и шейдеров
+*.jar
+*.zip
+shaderpacks/*
+!shaderpacks/.gitkeep
+resourcepacks/*
+!resourcepacks/.gitkeep
+mods/*
+!mods/.gitkeep
+logs/
+crash-reports/
+saves/
+options.txt
+optionsof.txt
+
